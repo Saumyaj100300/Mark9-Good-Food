@@ -1,0 +1,18 @@
+.App {
+  font-family: "Merienda", cursive;
+  max-width: 700px;
+  padding: 2rem;
+  margin: auto;
+}
+
+hr {
+  background-color: black;
+}
+
+html {
+  background: #dbeafe;
+}
+.description {
+  padding: 1rem 0;
+}
+
